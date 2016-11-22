@@ -1,4 +1,4 @@
-package com.taikang.healthcare.sdk.exception;
+package com.self.activity.sdk.exception;
 
 public class BusinessException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package com.taikang.healthcare.sdk.bean;
+package com.self.activity.sdk.bean;
 
 import java.io.Serializable;
 

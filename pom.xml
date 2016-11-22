@@ -1,20 +1,20 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<artifactId>cis-sdk</artifactId>
+	<artifactId>self-activity-sdk</artifactId>
 	<version>0.0.1</version>
-	<name>cissdk</name>
-	<groupId>com.taikang.healthcare</groupId>
+	<name>selfsdk</name>
+	<groupId>com.self.activity</groupId>
 	<packaging>jar</packaging>
 
-	<distributionManagement>
+<!-- <distributionManagement>
 		<repository>
 			<id>health-repository</id>
 			<name>health repo</name>
 			<url>http://10.137.99.77:8082/nexus/content/repositories/health-repository/</url>
 		</repository>
 	</distributionManagement>
-
+ -->
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>

@@ -1,4 +1,4 @@
-package com.taikang.healthcare.sdk.util;
+package com.self.activity.sdk.util;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

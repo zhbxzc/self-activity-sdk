@@ -1,4 +1,4 @@
-package com.taikang.healthcare.sdk.config;
+package com.self.activity.sdk.config;
 
 import java.io.IOException;
 import java.io.InputStream;

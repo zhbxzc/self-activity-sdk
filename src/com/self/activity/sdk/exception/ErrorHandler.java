@@ -1,6 +1,6 @@
-package com.taikang.healthcare.sdk.exception;
+package com.self.activity.sdk.exception;
 
-import com.taikang.healthcare.sdk.config.CodeProperties;
+import com.self.activity.sdk.config.CodeProperties;
 
 public class ErrorHandler {
 

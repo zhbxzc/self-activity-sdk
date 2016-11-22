@@ -1,4 +1,4 @@
-package com.taikang.healthcare.sdk.bean;
+package com.self.activity.sdk.bean;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

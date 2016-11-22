@@ -1,7 +1,7 @@
-package com.taikang.healthcare.sdk.bean;
+package com.self.activity.sdk.bean;
 
-import com.taikang.healthcare.sdk.config.ApplicationConfig;
-import com.taikang.healthcare.sdk.config.CodeProperties;
+import com.self.activity.sdk.config.ApplicationConfig;
+import com.self.activity.sdk.config.CodeProperties;
 
 public class Result<T> {
 	private String code;

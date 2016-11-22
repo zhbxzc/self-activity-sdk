@@ -1,11 +1,11 @@
-package com.taikang.healthcare.sdk.config;
+package com.self.activity.sdk.config;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.Properties;
 
-import com.taikang.healthcare.sdk.exception.ErrorHandler;
+import com.self.activity.sdk.exception.ErrorHandler;
 
 /**
  * 

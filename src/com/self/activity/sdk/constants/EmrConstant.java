@@ -1,4 +1,4 @@
-package com.taikang.healthcare.sdk.constants;
+package com.self.activity.sdk.constants;
 
 /**
  * emr-app/emr-domain中用到的常量

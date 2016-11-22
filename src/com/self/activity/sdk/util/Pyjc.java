@@ -1,4 +1,4 @@
-package com.taikang.healthcare.sdk.util;
+package com.self.activity.sdk.util;
 import java.io.UnsupportedEncodingException;  
 
 /*取得给定汉字串的首字母串,即声母串 

@@ -1,4 +1,4 @@
-package com.taikang.healthcare.sdk.aop;
+package com.self.activity.sdk.aop;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -9,9 +9,9 @@ import org.springframework.util.StringUtils;
 import org.springframework.validation.BeanPropertyBindingResult;
 import org.springframework.validation.FieldError;
 
-import com.taikang.healthcare.sdk.bean.Result;
-import com.taikang.healthcare.sdk.config.CodeProperties;
-import com.taikang.healthcare.sdk.exception.BusinessException;
+import com.self.activity.sdk.bean.Result;
+import com.self.activity.sdk.config.CodeProperties;
+import com.self.activity.sdk.exception.BusinessException;
 
 public class BaseValidateHandler {
 	public Object validate(ProceedingJoinPoint joinPoint) {
