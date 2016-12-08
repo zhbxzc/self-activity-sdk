@@ -28,7 +28,7 @@ public class PageBean {
 	}
 	public void setTotalPages(){
 		if(this.totalElements!=null&&this.size!=null){
-			if(this.totalElements!=0&&this.size!=0){
+			if(this.totalElements!=null&&this.size!=0){
 				if(this.totalElements%this.size!=0){
 					this.totalPages=this.totalElements/this.size+1;
 					return;
